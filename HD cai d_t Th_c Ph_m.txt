@@ -1,0 +1,20 @@
+
+php -S localhost:8000 -t public
+
+truy cập web: http://localhost:8000
+
+đăng nhập admin: http://localhost:8000/admin-auth/login
+admin: admin@gmail.com
+pass: admin@123
+
+duanweb_thucphamsach (SQL)
+
+link download hình: https://www.flaticon.com/search?word=noodles&type=icon
+
+
+ - tài khoản test:
+Ngân hàng: NCB
+Số thẻ: 9704198526191432198
+Ngày phát hành:07/15
+Tên chủ thẻ:NGUYEN VAN A
+Mật khẩu OTP:123456
